@@ -2,6 +2,10 @@
 
 Play Store App Review Analysis - analysis by DataDigger
 
+
+![image](https://user-images.githubusercontent.com/109669197/181794200-073070c6-dc22-478d-8963-a40958e570dc.png)
+
+
 Reasons for Analysis
 
 1.The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market
